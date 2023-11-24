@@ -1,7 +1,7 @@
 import 'package:clima_flutter/services/networking.dart';
 import '/services/location.dart';
 
-const apiKey = 'b6c5f08d9b1e4f61947122909231411';
+const apiKey = 'apikey';
 const weatherApiURL = 'http://api.weatherapi.com/v1/current.json';
 
 class WeatherModel {
